@@ -1,18 +1,20 @@
 # FoodAdvisor
 
 開啟舌尖上的旅行😊
+
 World's Smallest Restaurent Site built by Node.js and Express.
 
-[Demo Website]()
+[Demo Website](https://carrot7712.github.io/FoodAdvisor/)
 
 ![](https://i.imgur.com/XjOwyFo.gif)
-
+![](https://i.imgur.com/XXgFRKx.png)
 
 ## Features - 特色功能
 
 1. 使用者能在首頁一目了然餐廳名稱、類型、評分
 2. 使用者能於搜尋欄輸入餐廳名稱或類別進行篩選
 3. 使用者能點擊照片了解各餐廳地址、電話及特色
+4. 使用者能盡情伸縮畫面因為我們有響應式設計讚
 
 
 ## Prerequisites - 環境建置與需求
