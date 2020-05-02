@@ -7,7 +7,7 @@ World's Smallest Restaurent Site built by Node.js and Express.
 [Demo Website](https://carrot7712.github.io/FoodAdvisor/)
 
 ![](https://i.imgur.com/XjOwyFo.gif)
-
+![](https://i.imgur.com/XXgFRKx.png)
 
 ## Features - 特色功能
 
