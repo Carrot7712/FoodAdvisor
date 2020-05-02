@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&family=Oswald:wght@500&family=Satisfy&display=swap');
-.search-bar, #data-panel, footer, .restaurant-detail{
+.search-bar,
+#data-panel,
+footer,
+.restaurant-detail {
   font-family: 'Noto Serif TC', serif;
 }
 
@@ -23,7 +26,8 @@ nav a {
   z-index: -1;
   margin: -5px;
   height: 360px;
-  background: #dddddd center center url('https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
+  background: #dddddd center center
+    url('https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80');
   background-size: cover;
   filter: blur(3px);
 }
@@ -46,10 +50,10 @@ nav a {
 
 /*footer*/
 footer {
-  background-color: #F8F9FA;
+  background-color: #f8f9fa;
 }
-.list-unstyled li a{
-  color:#4592AF
+.list-unstyled li a {
+  color: #4592af;
 }
 
 /*for index.handlebars*/
@@ -65,7 +69,7 @@ footer {
 }
 
 .search-bar .search-bar-inner h4 {
-  color: #4592AF;
+  color: #4592af;
 }
 
 .form-control::placeholder {
@@ -74,7 +78,7 @@ footer {
 }
 
 .btn-major {
-  background-color: #4592AF;
+  background-color: #4592af;
   color: white;
 }
 
@@ -87,14 +91,14 @@ footer {
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
 
-.card img{
+.card img {
   height: 180px;
 }
 
-.card-title{
-  overflow:hidden;
-  text-overflow:ellipsis;
-  white-space:nowrap;
+.card-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .restaurant-category {
@@ -103,21 +107,21 @@ footer {
 }
 
 @media screen and (max-width: 992px) {
-  
-  .card img{
+  .card img {
     height: 115px;
   }
 }
 
 @media screen and (max-width: 575px) {
-  
-  .card img{
+  .card img {
     height: auto;
   }
-  
 }
 
 /*for show.handlebars*/
-.restaurant-detail{
+#wrapper {
+  min-height: 32vh;
+}
+.restaurant-detail {
   font-size: 24px;
 }
