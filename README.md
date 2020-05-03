@@ -29,7 +29,7 @@ World's Smallest Restaurent Site built by Node.js and Express.
 1. Open the terminal and clone our project
 
 ```
-git clone https://github.com/pierceshih15/FoodAdvisor.git
+git clone https://github.com/Carrot7712/FoodAdvisor.git
 ```
 
 2. Access the directory
