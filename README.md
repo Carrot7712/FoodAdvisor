@@ -55,13 +55,13 @@ npm install nodemon
 npm run dev
 ```
 
-6. You will see following information in your terminal if things go successfully.
+6. You will see the following information in your terminal if things go successfully.
 
 ```
  Express is listening on localhost:3000
 ```
 
-Now, open the Chrome browser and go to [http://localhost:3000](http://localhost:3000) to check some amazing restaurants.
+Now, open the Chrome browser and go to [http://localhost:3000](http://localhost:3000) to check some amazing restaurants!
 
 
 
